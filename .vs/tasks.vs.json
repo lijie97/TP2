@@ -1,0 +1,11 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "",
+      "appliesTo": "Tp2.c",
+      "command": "${env.COMSPEC}",
+      "type": "launch"
+    }
+  ]
+}
